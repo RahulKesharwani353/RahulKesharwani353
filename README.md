@@ -9,11 +9,10 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻  I’m an Android Developer and Web Developer :wink:.
-- 🌱  I’m currently learning IOT. 
-- 🎬 I'm a Video Editor  
+- 👨🏽‍💻  I’m an Android Developer and Full stack Web Developer :wink:.
+- 🌱  I’m looking forward to learn.  
 - 📫  How to reach me: rahulkesharwani353@gmail.com.
-- ✨ My portfolio : [visit here](https://rahulkesharwani.study/)
+- ✨ My LinkedIn : [visit here](https://www.linkedin.com/in/rahul-kesharwani/)
 
 ***
 
